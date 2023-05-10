@@ -1,8 +1,17 @@
 <item>
-<title>[B][COLOR lime]●[/COLOR] [COLOR gold]SIC[/COLOR][/B]</title>
-<link>https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8</link>
-<thumbnail>https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aae5dde5753781182166ccca527ff1a0.webp</thumbnail>
-<fanart>https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aae5dde5753781182166ccca527ff1a0.webp</fanart>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]#[/COLOR][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
-<epg_link>https://gist.githubusercontent.com/micdouglas/486f35eefa2274fa8ec0ce2e3362ec8d/raw/4094cdba37830eacab50c531399aaec0f19ba29b/EPG%2520Tv%2520a%2520Cabo.xml</epg_link> 
+<epg_link></epg_link>
+</item>
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]RTP 1 [/COLOR][/B]</title>
+<link>https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8</link>
+<thumbnail>https://www.cxtv.com.br/img/Tvs/Logo/webp-m/703b45579dbcec6cd29ca8b56cb544a7.webp</thumbnail>
+<fanart>https://www.cxtv.com.br/img/Tvs/Logo/webp-m/703b45579dbcec6cd29ca8b56cb544a7.webp</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+<epg_link></epg_link>
 </item>
