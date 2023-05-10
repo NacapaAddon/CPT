@@ -8,10 +8,48 @@
 </item>  
 
 <item>
-<title>[B][COLOR lime]●[/COLOR] [COLOR gold]#[/COLOR][/B]</title>
-<link>https://stream.castr.com/5d714f6a0bd97874e36f14e4/live_3a0f544056e711ec8d4bc33d28c33b2a/tracks-v1a1/mono.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]ON FM Portugal [/COLOR][/B]</title>
+<link>https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8</link>
+<thumbnail>https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cc4cd15f95807d0d3c794fa75b574ac3.webp</thumbnail>
+<fanart>https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cc4cd15f95807d0d3c794fa75b574ac3.webp</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+<epg_link></epg_link>
+</item>    
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]IURDTV Europa[/COLOR][/B]</title>
+<link>https://dacastmmd.mmdlive.lldns.net/dacastmmd/5e0dca9c62c344c49c98d1bd67409be5/chunklist_b4628000.m3u8?p=79&s=1649790438&e=1649790558&h=1f557f1aea4a88497cc58ba6ad98eecf</link>
+<thumbnail>https://www.cxtv.com.br/img/Tvs/Logo/webp-m/913eea75be383d5dd505f5d8e848812d.webp</thumbnail>
+<fanart>https://www.cxtv.com.br/img/Tvs/Logo/webp-m/913eea75be383d5dd505f5d8e848812d.webp</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+<epg_link></epg_link>
+</item>
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]WEB TV Paixao FM[/COLOR][/B]</title>
+<link>https://stmv2.samcast.com.br/romeu6622/romeu6622/chunklist_w2022113901.m3u8</link>
+<thumbnail>https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fe845cd9712092b91454b965439f667.webp</thumbnail>
+<fanart>https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fe845cd9712092b91454b965439f667.webp</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+<epg_link></epg_link>
+</item>
+
+
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Kuriakos Tv[/COLOR][/B]</title>
+<link>https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8</link>
+<thumbnail>https://www.cxtv.com.br/img/Tvs/Logo/webp-m/be908a654dd4c6705a0d6d663c4e853e.webp</thumbnail>
+<fanart>https://www.cxtv.com.br/img/Tvs/Logo/webp-m/be908a654dd4c6705a0d6d663c4e853e.webp</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+<epg_link></epg_link>
+</item>    
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]ies TV - Igreja do Espírito Santo[/COLOR][/B]</title>
+<link>https://joaocaiado.com:1443/ies_tv/ngrp:ies_tv_all/chunklist_w1184227779_b1073249.m3u8</link>
+<thumbnail>https://www.cxtv.com.br/img/Tvs/Logo/webp-m/52fcdda5cbfc92b83c0ee7f1a142519b.webp</thumbnail>
+<fanart>https://www.cxtv.com.br/img/Tvs/Logo/webp-m/52fcdda5cbfc92b83c0ee7f1a142519b.webp</fanart>
 <info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
 <epg_link></epg_link>
 </item>
