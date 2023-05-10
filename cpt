@@ -9,7 +9,7 @@
 
 <item>
 <title>[B][COLOR lime]●[/COLOR] [COLOR gold]RTP 1 [/COLOR][/B]</title>
-<link>https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8</link>
+<link>https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8 http-user-agent=Firefox</link>
 <thumbnail>https://www.cxtv.com.br/img/Tvs/Logo/webp-m/703b45579dbcec6cd29ca8b56cb544a7.webp</thumbnail>
 <fanart>https://www.cxtv.com.br/img/Tvs/Logo/webp-m/703b45579dbcec6cd29ca8b56cb544a7.webp</fanart>
 <info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
