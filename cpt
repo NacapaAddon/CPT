@@ -53,3 +53,30 @@
 <info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
 <epg_link></epg_link>
 </item>
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]V live internacional[/COLOR][/B]</title>
+<link>https://stmv2.samcast.com.br/romeu6622/romeu6622/chunklist_w2022113901.m3u8</link>
+<thumbnail>https://archive.org/download/download_20230510/download.jpg</thumbnail>
+<fanart>https://archive.org/download/download_20230510/download.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+<epg_link></epg_link>
+</item>
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Euronews PT[/COLOR][/B]</title>
+<link>https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+<epg_link></epg_link>
+</item>
+
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]ARTV[/COLOR][/B]</title>
+<link>https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+<epg_link></epg_link>
+</item>    
